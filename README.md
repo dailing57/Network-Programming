@@ -1,2 +1,3 @@
-# NUST_Homework
-Homeworks in njust
+# 网络编程作业
+
+实现的一个ftp客户端
